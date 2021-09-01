@@ -132,7 +132,7 @@ Windows Azure was been renamed to Microsoft Azure.
 
 The [ASP.NET](http://asp.NET) vNext concept was introduced, later it was renamed to ASP.NET Core.
 
-![Untitled](NET%20History%20c6c3eb2ee5d94c048ba57ba85d7a748b/Untitled.png)
+![Untitled](.NET-History/Untitled1.png)
 
 ---
 
