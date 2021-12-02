@@ -106,6 +106,7 @@ The ASP.NET vNext concept was introduced, later it was renamed to ASP.NET Core.
 
 <img src="/NET History/Untitled 1.png" width="65%">
 
+
 ## 2015
 
 .NET 4.6 with C# 6.0 on Visual Studio 2015 was released.
