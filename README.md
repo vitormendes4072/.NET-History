@@ -70,13 +70,13 @@ Some languages:
 ## 2007 - 2008
 
 - .NET 3.5 with C# 3.0 on Visual Studio 2008, with Silverlight, WPF and WCF was released.
-- Microsoft hired an open source development team and they started developing ASP.NET [](http://asp.NET)MVC.
+- Microsoft hired an open source de3velopment team and they started developing ASP.NET [](http://asp.NET)MVC.
 - Started talking about Windows Azure.
 
 ## 2010
 
 - .NET 4.0 with C# 4.0 on Visual Studio 2010 was released with the new language called F# (functional language).
-- Windows Azura was released in the market.
+- Windows Azure was released in the market.
 - Anders Hejlsberg started to develop Typescript.
 
 ## 2011
